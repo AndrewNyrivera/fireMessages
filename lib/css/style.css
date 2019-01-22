@@ -49,7 +49,7 @@ input,
 
 h1 {
     font-size: 45px;
-    color: var(--accent);
+    color: var(--primaryLight);
     text-align: center;
 }
 
