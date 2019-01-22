@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     align-items: center;
     height: 100vh;
-    background-image: url("https://t4.ftcdn.net/jpg/02/02/17/99/240_F_202179910_Uv0HNNaT1LklpUAwfC5eJY3QhGL2IkAc.jpg");
+    background-image: url("https://eos.org/wp-content/uploads/2016/09/comment-bubbles-blue-background.png");
     background-size: cover;
  
 }
@@ -49,7 +49,7 @@ input,
 
 h1 {
     font-size: 45px;
-    color: var(--primaryLight);
+    color: var(--accent);
     text-align: center;
 }
 
