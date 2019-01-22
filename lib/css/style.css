@@ -11,7 +11,8 @@
 
 :root {
     --primaryDark: #FFFFFF;
-    --primaryLight: #000000;
+    --background: #0991F2; 
+    --primaryLight: #FFFFFF;
     --accent: #000000;
     --alternate: #000000;
     --addedPadding: 10px;
@@ -29,7 +30,7 @@ body {
     flex-direction: column;
     align-items: center;
     height: 100vh;
-    background-color: var(--primaryDark);
+    background-color: var(--background);
 }
 
 h1,
