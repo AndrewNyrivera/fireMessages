@@ -124,8 +124,8 @@ form {
 }
 
 #submitButton {
-    color: var(--primaryDark);
-    background-color: var(--accent);
+    color: var(--primaryLight);
+    background-color: var(--transparent);
     font-size: 1.3em;
     transition: color 300ms ease-in, background-color 300ms ease-in;
     cursor: pointer;
