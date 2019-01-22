@@ -11,7 +11,7 @@
 
 :root {
     --primaryDark: #000000;
-     
+     --primaryBlue: #097CF2;
     --primaryLight: #FFFFFF;
     --accent: #000000;
     --alternate: #000000;
@@ -30,7 +30,8 @@ body {
     flex-direction: column;
     align-items: center;
     height: 100vh;
-    background-image: src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiMkbrguYDgAhXOnOAKHa4cDAUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.fotolia.com%2Ftag%2Fcomment&psig=AOvVaw1BRzlQCGhemguA0TkMXV2m&ust=1548214272174834";
+    background-image: url("https://t4.ftcdn.net/jpg/02/02/17/99/240_F_202179910_Uv0HNNaT1LklpUAwfC5eJY3QhGL2IkAc.jpg");
+ 
 }
 
 h1,
@@ -130,11 +131,11 @@ form {
 
 #submitButton:hover {
     background-color: var(--primaryDark);
-    color: var(#FFFFFF);
+    color: var(--primaryBlue);
 }
 
 #submitButton:focus {
     outline-style: none;
     outline-width: 2px;
-    outline-color: var(--primarydark);
+    outline-color: var(--primarylight);
 }
