@@ -130,7 +130,7 @@ form {
 
 #submitButton:hover {
     background-color: var(--primaryDark);
-    color: var(--accent);
+    color: var(#FFFFFF);
 }
 
 #submitButton:focus {
